@@ -1,31 +1,4 @@
-<!DOCTYPE html>
-<html lang="ja">
-<head>
-  <meta charset="UTF-8">
-  <title>ポートフォリオ | 糸洲海吏</title>
-  <style>
-    body {
-      font-family: sans-serif;
-      margin: 20px;
-      background: #fafafa;
-      color: #333;
-    }
-    h1 {
-      color: #0077b6;
-    }
-    h2 {
-      margin-top: 30px;
-      border-bottom: 2px solid #0077b6;
-      padding-bottom: 5px;
-    }
-    .project {
-      margin: 10px 0;
-      padding: 10px;
-      background: #fff;
-      border: 1px solid #ddd;
-      border-radius: 5px;
-    }
-  </style>
+
 </head>
 <body>
 

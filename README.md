@@ -3,7 +3,7 @@
 <html lang="ja">
 <head>
   <meta charset="UTF-8">
-  <title>ポートフォリオ | あなたの名前</title>
+  <title>ポートフォリオ | 糸洲海吏</title>
   <style>
     body {
       font-family: sans-serif;
@@ -30,32 +30,33 @@
 </head>
 <body>
 
-  <h1>あなたの名前</h1>
-  <p>ITエンジニア志望 / Web開発 / プログラミング</p>
+  <h1>糸洲海吏</h1>
+  <p>ITエンジニア志望</p>
 
   <h2>自己紹介</h2>
   <p>
-    ここに簡単な自己紹介を書きます。<br>
-    例：現在はWeb開発を学習中で、フロントエンドやバックエンドの技術に挑戦しています。
+    現在、IT分野の学習を進めています。<br>
+    特にプログラミングや開発に関心があり、スキルを磨きながら成長していきたいと考えています。
   </p>
 
   <h2>スキル</h2>
   <ul>
-    <li>HTML / CSS / JavaScript</li>
-    <li>Java / Python / SQL</li>
-    <li>Git / GitHub</li>
+    <li>Java</li>
+    <li>Python</li>
+    <li>Git</li>
+    <li>その他 IT関連技術</li>
   </ul>
 
   <h2>作品</h2>
   <div class="project">
     <strong>ポートフォリオサイト</strong><br>
-    HTMLとCSSで制作した自己紹介用サイト。<br>
-    <a href="#">GitHub リンク</a>
+    自己紹介用に作成したWebサイト（このページ）。<br>
+    <a href="#">GitHub リンク（あれば記載）</a>
   </div>
   <div class="project">
-    <strong>Todoアプリ</strong><br>
-    JavaとMySQLを使ったタスク管理アプリ。<br>
-    <a href="#">GitHub リンク</a>
+    <strong>サンプルアプリ</strong><br>
+    JavaやPythonを用いた学習プロジェクト。<br>
+    <a href="#">GitHub リンク（あれば記載）</a>
   </div>
 
   <h2>連絡先</h2>
@@ -64,6 +65,7 @@
 
 </body>
 </html>
+
 
 <!--
 **itc-s24003/itc-s24003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -15,16 +15,6 @@
   </ul>
 
   <h2>作品</h2>
-  <div class="project">
-    <strong>ポートフォリオサイト</strong><br>
-    自己紹介用に作成したWebサイト（このページ）。<br>
-    <a href="#">GitHub リンク（あれば記載）</a>
-  </div>
-  <div class="project">
-    <strong>サンプルアプリ</strong><br>
-    JavaやPythonを用いた学習プロジェクト。<br>
-    <a href="#">GitHub リンク（あれば記載）</a>
-  </div>
 
 </body>
 </html>

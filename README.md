@@ -6,12 +6,6 @@
   <p>ITスペシャリスト科2年</p>
   <p>糸洲　海吏</p>
 
-  <h2>自己紹介</h2>
-  <p>
-    現在、IT分野の学習を進めています。<br>
-    特にプログラミングや開発に関心があり、スキルを磨きながら成長していきたいと考えています。
-  </p>
-
   <h2>スキル</h2>
   <ul>
     <li>Java</li>
@@ -31,10 +25,6 @@
     JavaやPythonを用いた学習プロジェクト。<br>
     <a href="#">GitHub リンク（あれば記載）</a>
   </div>
-
-  <h2>連絡先</h2>
-  <p>Email: yourmail@example.com</p>
-  <p>GitHub: <a href="https://github.com/username" target="_blank">github.com/username</a></p>
 
 </body>
 </html>

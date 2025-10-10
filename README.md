@@ -8,10 +8,10 @@
 
   <h2>スキル</h2>
   <ul>
-    <li>Java</li>
-    <li>Python</li>
-    <li>Git</li>
-    <li>その他 IT関連技術</li>
+    <li>そこそこJava</li>
+    <li>そこそこPython</li>
+    <li>そこそこGit</li>
+    <li>その他 そこそこIT関連技術</li>
   </ul>
 
   <h2>作品</h2>

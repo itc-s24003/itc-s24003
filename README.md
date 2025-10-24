@@ -15,6 +15,7 @@
   </ul>
 
   <h2>作品</h2>
-  <p>https://github.com/itc-s24003/PG1</p>
+  <p>Python授業で作った作品https://github.com/itc-s24003/PG1</p>
+  <p>HTMLで作った作品https://github.com/itc-s24003/my-next-project</p>
 </body>
 </html>

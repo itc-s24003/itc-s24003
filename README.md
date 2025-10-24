@@ -17,5 +17,6 @@
   <h2>作品</h2>
   <p>Python授業で作った作品https://github.com/itc-s24003/PG1</p>
   <p>HTMLで作った作品https://github.com/itc-s24003/my-next-project</p>
+  <p>APIを使った作品https://github.com/itc-s24003/maprote</p>
 </body>
 </html>

@@ -7,13 +7,20 @@
   <p>糸洲　海吏</p>
   <p>プログラミングに興味があります</p>
 
-  <h2>スキル</h2>
+  <h2>勉強中の言語</h2>
   <ul>
-    <li>そこそこJava</li>
-    <li>そこそこPython</li>
-    <li>そこそこGit</li>
-    <li>その他 そこそこIT関連技術</li>
+    <li>java</li>
+    <li>Python</li>
+    <li>HTML</li>
+    <li>Kotlin</li>
+    <li>javascript</li>
   </ul>
+
+  <h2>勉強中のツール</h2>
+  <li>git</li>
+  <li>github</li>
+  <li>vscode</li>
+  <li>microcms</li>
 
   <h2>作品</h2>
   <p>javaの作品https://github.com/itc-s24003/PG1</p>

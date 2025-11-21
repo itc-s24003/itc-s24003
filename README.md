@@ -26,9 +26,9 @@
 
   <h2>作ったもの</h2>
   <ul>
-  <p>java https://github.com/itc-s24003/PG1</p>
-  <p>HTML https://github.com/itc-s24003/my-next-project</p>
-  <p>API https://github.com/itc-s24003/maprote</p>
+  <li>java https://github.com/itc-s24003/PG1</li>
+  <li>HTML https://github.com/itc-s24003/my-next-project</li>
+  <li>API https://github.com/itc-s24003/maprote</li>
   </ul>
 </body>
 </html>

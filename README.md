@@ -22,32 +22,34 @@
   
   <h1>勉強中の言語</h1>
   <ul>
-    <li>java</li>
+    <li>Java</li>
     <li>Python</li>
     <li>HTML</li>
     <li>Kotlin</li>
-    <li>javascript</li>
+    <li>JavaScript</li>
   </ul>
 
   <h1>勉強中のツール</h1>
   <ul>
-    <li>git</li>
-    <li>github</li>
+    <li>Git</li>
+    <li>Github</li>
     <li>vscode</li>
-    <li>microcms</li>
+    <li>microCMS</li>
   </ul>
 
   <h1>作ったもの</h1>
   <ul>
-    <li>python https://github.com/itc-s24003/PG1</li>
+    <li>Python https://github.com/itc-s24003/PG1</li>
     <li>HTML https://github.com/itc-s24003/my-next-project</li>
     <li>API https://github.com/itc-s24003/maprote</li>
-    <li>java </li>
+    <li>Java </li>
   </ul>
 
   <h1>資格</h1>
   <ul>
-    <li></li>
+    <li>CompTIA IT Fundamentals(ITF+)</li>
+    <li>インターネット検定 ドットコムマスター ベーシック</li>
+    <li>サーティファイ 実践プログラミング技術者試験 Python部門 Silver (Level 3)</li>
   </ul>
 </body>
 </html>

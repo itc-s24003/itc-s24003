@@ -11,8 +11,15 @@
   <h1>興味があるもの</h1>
   <ul>
     <li>AIの活用</li>
-    <li>オープンソースやAPIの活用</li>
+    <li>APIの活用</li>
   </ul>
+
+  <h1>目標</h1>
+  <ul>
+    <li>使える言語を増やす</li>
+    <li>1からサイトやアプリを作れるようになりたい</li>
+  </ul>
+  
   <h1>勉強中の言語</h1>
   <ul>
     <li>java</li>
@@ -32,13 +39,15 @@
 
   <h1>作ったもの</h1>
   <ul>
-    <li>java https://github.com/itc-s24003/PG1</li>
+    <li>python https://github.com/itc-s24003/PG1</li>
     <li>HTML https://github.com/itc-s24003/my-next-project</li>
     <li>API https://github.com/itc-s24003/maprote</li>
+    <li>java </li>
   </ul>
 
-  <h1>
-    
-  </h1>
+  <h1>資格</h1>
+  <ul>
+    <li></li>
+  </ul>
 </body>
 </html>

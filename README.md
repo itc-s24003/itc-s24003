@@ -17,14 +17,18 @@
   </ul>
 
   <h2>勉強中のツール</h2>
+  <ul>
   <li>git</li>
   <li>github</li>
   <li>vscode</li>
   <li>microcms</li>
+  </ul>
 
   <h2>作ったもの</h2>
+  <ul>
   <p>java https://github.com/itc-s24003/PG1</p>
   <p>HTML https://github.com/itc-s24003/my-next-project</p>
   <p>API https://github.com/itc-s24003/maprote</p>
+  </ul>
 </body>
 </html>

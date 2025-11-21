@@ -8,19 +8,20 @@
     <p>糸洲　海吏</p>
   </ul>
 
-  <h1>興味があるもの</h1>
+  <h2>興味があるもの、目標</h2>
+  <h4>興味があるもの</h4>
   <ul>
     <li>AIの活用</li>
     <li>APIの活用</li>
   </ul>
-
-  <h1>目標</h1>
+  <h4>目標</h4>
   <ul>
     <li>使える言語を増やす</li>
     <li>1からサイトやアプリを作れるようになりたい</li>
   </ul>
   
-  <h1>勉強中の言語</h1>
+  <h1>勉強中の言語、ツール</h1>
+  <h4>言語</h4>
   <ul>
     <li>Java</li>
     <li>Python</li>
@@ -28,8 +29,7 @@
     <li>Kotlin</li>
     <li>JavaScript</li>
   </ul>
-
-  <h1>勉強中のツール</h1>
+  <h4>ツール</h4>
   <ul>
     <li>Git</li>
     <li>Github</li>
@@ -37,7 +37,7 @@
     <li>microCMS</li>
   </ul>
 
-  <h1>作ったもの</h1>
+  <h2>作ったもの</h2>
   <ul>
     <li>Python https://github.com/itc-s24003/PG1</li>
     <li>HTML https://github.com/itc-s24003/my-next-project</li>
@@ -45,7 +45,7 @@
     <li>Java </li>
   </ul>
 
-  <h1>資格</h1>
+  <h2>資格</h2>
   <ul>
     <li>CompTIA IT Fundamentals(ITF+)</li>
     <li>インターネット検定 ドットコムマスター ベーシック</li>

@@ -22,10 +22,9 @@
   <li>vscode</li>
   <li>microcms</li>
 
-  <h2>作品</h2>
-  <p>javaの作品https://github.com/itc-s24003/PG1</p>
-  <p>HTMLの作品https://github.com/itc-s24003/my-next-project</p>
-  <p>APIの作品https://github.com/itc-s24003/maprote</p>
-  <p>javaの作品</p>
+  <h2>作ったもの</h2>
+  <p>java https://github.com/itc-s24003/PG1</p>
+  <p>HTML https://github.com/itc-s24003/my-next-project</p>
+  <p>API https://github.com/itc-s24003/maprote</p>
 </body>
 </html>

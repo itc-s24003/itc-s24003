@@ -49,7 +49,7 @@
     <li>Python https://github.com/itc-s24003/PG1</li>
     <li>HTML https://github.com/itc-s24003/my-next-project</li>
     <li>API https://github.com/itc-s24003/maprote</li>
-    <li>Java </li>
+    <li>MicroCMS https://github.com/itc-s24003/WebFrontKadai </li>
   </ul>
 
 
